@@ -1,6 +1,6 @@
 # Breakout_Clone_Game
 
-![Alt text](Breakout_Clone.png?raw=true "Optional Title")
+![Alt text](BreakOut_Clone.png?raw=true "Optional Title")
 
 Tested under python3.6
 
